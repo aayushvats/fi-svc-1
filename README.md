@@ -19,7 +19,7 @@ This is a Financial Insights Service containing a Flutter/Dart frontend for Mult
 1. **Install Flutter:** Follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 2. **Open the frontend folder:** Navigate to the `frontend` folder in your code editor.
 3. **Install dependencies:** Run `flutter pub get` in the terminal.
-4. **Replace the baseURL** Navigate to `\lib\services\service.dart` and replace the baseURL value to your IP Address. you can find your IP Address by ipconfig in the terminal 
+4. **Replace the baseURL** Navigate to `\lib\services\service.dart` and replace the baseURL value to your IP Address. you can find your IP Address by ipconfig in the terminal `(make sure your Go server and Application are being run on the same network)`
 5. **Run the app:** Execute `flutter run` to start the Flutter app.
 
 ### Backend (Go)
